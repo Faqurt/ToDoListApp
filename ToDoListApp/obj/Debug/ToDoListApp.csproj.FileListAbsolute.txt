@@ -1,0 +1,7 @@
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\bin\ToDoListApp.dll
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\bin\ToDoListApp.pdb
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csprojAssemblyReference.cache
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.dll
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
+D:\Downloads\Desktop\ToDoListApp\ToDoListApp\bin\ToDoListApp.dll.config
